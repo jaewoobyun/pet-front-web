@@ -89,6 +89,7 @@ class App extends Component {
 
         <Zoom>
           <span>{this.state.name} 의 나이는 {this.state.age} </span>
+          <p>awefoajwefoajwo</p>
         </Zoom>
       </div>
     )
